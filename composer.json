@@ -1,0 +1,17 @@
+{
+    "name": "di/test-quest",
+    "autoload": {
+        "psr-4": {
+            "Di\\TestQuest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "divanov",
+            "email": "d.ivanov@interadgmbh.de"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
