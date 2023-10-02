@@ -13,6 +13,7 @@ https://www.w3schools.com/js/js_graphics_chartjs.asp
 
 
  ![](line_graph.png)
+ ![](Task.png)
 
 Result:
 ===
